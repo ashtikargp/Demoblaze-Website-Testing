@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-15T00:29:26 PDT" name="Default suite" finished-at="2024-06-15T00:30:14 PDT" duration-ms="48694">
+    <groups>
+    </groups>
+    <test started-at="2024-06-15T00:29:26 PDT" name="Default test" finished-at="2024-06-15T00:30:14 PDT" duration-ms="48694">
+      <class name="Project.Task_Demoblaze_Gargi">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:29:26 PDT" name="beforeTest" finished-at="2024-06-15T00:29:30 PDT" duration-ms="4891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="SignUp()[pri:1, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:29:30 PDT" name="SignUp" finished-at="2024-06-15T00:29:37 PDT" duration-ms="6246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method signature="Login()[pri:2, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:29:37 PDT" name="Login" finished-at="2024-06-15T00:29:39 PDT" duration-ms="2619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddtoCart()[pri:3, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:29:39 PDT" name="AddtoCart" finished-at="2024-06-15T00:30:01 PDT" duration-ms="21457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCart -->
+        <test-method signature="PlaceOrder()[pri:4, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:30:01 PDT" name="PlaceOrder" finished-at="2024-06-15T00:30:13 PDT" duration-ms="11854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceOrder -->
+        <test-method signature="Printmsg()[pri:5, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:30:13 PDT" name="Printmsg" finished-at="2024-06-15T00:30:14 PDT" duration-ms="1576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Printmsg -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Project.Task_Demoblaze_Gargi@6c345c5f]" started-at="2024-06-15T00:30:14 PDT" name="afterTest" finished-at="2024-06-15T00:30:14 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Project.Task_Demoblaze_Gargi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
